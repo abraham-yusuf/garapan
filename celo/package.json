@@ -14,7 +14,7 @@
   "author": "Bartosz Hejman",
   "license": "ISC",
   "dependencies": {
-    "@celo/contractkit": "^1.0.1",
+    "@celo/contractkit": "^1.3.0",
     "dotenv": "^8.2.0",
     "web3": "^1.3.3"
   }
